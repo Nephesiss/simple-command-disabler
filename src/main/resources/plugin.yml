@@ -1,0 +1,11 @@
+name: CommandDisabler
+main: hu.nephesis.simplecommanddisable.Main
+version: 1.0.0
+api-version: 1.13
+permissions:
+  commanddisabler.bypass:
+    description: Bypass all blocked commands
+    default: op
+  commanddisabler.bypass.<command>:
+    description: Bypass a specific blocked command
+    default: false

@@ -1,0 +1,6 @@
+blocked-commands:
+  - plugins
+  - version
+  - pl
+
+deny-message: "&cYou cannot use that command."
