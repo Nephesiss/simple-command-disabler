@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛑 SimpleCommandDisabler
+# SimpleCommandDisabler
 
 **The ultimate lightweight solution for server command security.**
 
