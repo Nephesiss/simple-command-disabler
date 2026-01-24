@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1442937974244507739/1464661209654493366/scd.png?ex=6976478c&is=6974f60c&hm=23f212c7e74154b452a443edf7df255b86278323ffc17dd4d1a69d9c5ee1c847&" width="600" alt="Server Security GIF">
+  <img src="https://cdn.discordapp.com/attachments/1442937974244507739/1464661209654493366/scd.png?ex=6976478c&is=6974f60c&hm=23f212c7e74154b452a443edf7df255b86278323ffc17dd4d1a69d9c5ee1c847&" width="600" alt="Logo">
 </p>
 
 </div>
@@ -19,9 +19,7 @@
 
 ## 📋 Overview
 
-**SimpleCommandDisabler** is a high-performance, zero-bloat plugin designed to give server administrators complete control over which commands players can execute. Whether you want to hide your plugin list (e.g., `/plugins`, `/pl`) or block potential exploits, this plugin handles it seamlessly.
-
-Unlike other bloated alternatives, we focus on **speed**, **simplicity**, and **reliability**.
+**SimpleCommandDisabler** is a zero-bloat plugin designed to give server administrators complete control over which commands players can execute. Whether you want to hide your plugin list (e.g., `/plugins`, `/pl`) or block potential exploits, this plugin handles it seamlessly.
 
 ## ✨ Key Features
 
@@ -29,7 +27,6 @@ Unlike other bloated alternatives, we focus on **speed**, **simplicity**, and **
 -   ⚡ **Ultra Lightweight**: Zero impact on server TPS (Ticks Per Second).
 -   🎨 **Rich Message Support**: Full support for legacy color codes (`&c`, `&l`, etc.) in denial messages.
 -   🛡️ **Smart Bypass System**: Integrated permission system for admins and staff.
--   ⚙️ **Hot-Reload Ready**: Edit configurations without restarting (via standard plugman reload or restart).
 -   🔧 **Case Insensitive**:Intelligent matching engine catches `/PL`, `/pl`, and `/Pl` instantly.
 
 ## 📦 Installation Guide
